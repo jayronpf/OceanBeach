@@ -77,7 +77,7 @@ header li:last-child{
 
 /* -----------------------------------------------HERO----------------------------------------------- */
 #home{
-    background-image: url(teste.jpg);
+    background-image: url(imgs/teste.jpg);
     background-size: cover;
     min-height: 100vh;
     color: #fff;
